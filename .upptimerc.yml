@@ -38,7 +38,7 @@ sites:
   - name: CestLaGreve API @ KaKi87
     url: https://cestlagreve.api.kaki87.net
     expectedStatusCodes:
-      - 404
+      - 204
   - name: SSHception @ KaKi87
     url: kaki87.net
     port: 3100
