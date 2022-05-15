@@ -12,7 +12,7 @@ status-website:
   cname: status.katys.cf
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
+  name: KaTys status
   introTitle: "**KaTys** server status"
   introMessage: This page shows the status of the services hosted on the KaTys server.
   navbar:
@@ -20,6 +20,9 @@ status-website:
       href: /
     - title: About
       href: https://katys.cf
+  theme: dark
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
+assignees:
+  - KaKi87
