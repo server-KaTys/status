@@ -149,19 +149,17 @@
     "icon": "https://favicons.githubusercontent.com/cestlagreve.api.kaki87.net",
     "slug": "cest-la-greve-api-ka-ki87",
     "status": "up",
-    "uptime": "5.79%",
-    "uptimeDay": "5.79%",
-    "uptimeWeek": "5.79%",
-    "uptimeMonth": "5.79%",
-    "uptimeYear": "5.79%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 418,
     "timeDay": 418,
     "timeWeek": 418,
     "timeMonth": 418,
     "timeYear": 418,
-    "dailyMinutesDown": {
-      "2022-05-15": 3
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "SSHception @ KaKi87",
