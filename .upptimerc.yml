@@ -59,6 +59,10 @@ sites:
     url: https://glitchgit.kaki87.net
     expectedStatusCodes:
       - 204
+  - name: Apache
+    url: 148.251.48.170
+    port: 443
+    check: "tcp-ping"
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
