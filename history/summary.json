@@ -148,9 +148,9 @@
     "url": "kaki87.net",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "ss-hception-ka-ki87",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -159,7 +159,9 @@
     "timeWeek": 111,
     "timeMonth": 111,
     "timeYear": 111,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-27": 0
+    }
   },
   {
     "name": "SSHception web @ KaKi87",
