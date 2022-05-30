@@ -63,6 +63,10 @@ sites:
     url: 148.251.48.170
     port: 443
     check: "tcp-ping"
+  - name: Chat @ KaKi87
+    url: https://chat.kaki87.net/_matrix/client/versions
+    expectedStatusCodes:
+      - 200
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
