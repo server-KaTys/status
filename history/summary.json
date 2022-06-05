@@ -168,9 +168,9 @@
     "url": "https://ssh.kaki87.net",
     "icon": "https://favicons.githubusercontent.com/ssh.kaki87.net",
     "slug": "ss-hception-web-ka-ki87",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -179,7 +179,9 @@
     "timeWeek": 538,
     "timeMonth": 529,
     "timeYear": 529,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-05": 0
+    }
   },
   {
     "name": "cv.vg dev API @ KaKi87",
