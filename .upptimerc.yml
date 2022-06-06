@@ -36,8 +36,8 @@ sites:
     expectedStatusCodes:
       - 204
   - name: SSHception @ KaKi87
-    url: kaki87.net
-    port: 3100
+    url: ssh.kaki87.net
+    port: 22
     check: "tcp-ping"
   - name: SSHception web @ KaKi87
     url: https://ssh.kaki87.net
