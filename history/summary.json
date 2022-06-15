@@ -4,19 +4,19 @@
     "url": "https://tianalemesle.fr",
     "icon": "https://favicons.githubusercontent.com/tianalemesle.fr",
     "slug": "portfolio-tiana-lemesle",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 669,
-    "timeDay": 574,
-    "timeWeek": 627,
-    "timeMonth": 669,
-    "timeYear": 669,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.00%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 673,
+    "timeDay": 679,
+    "timeWeek": 649,
+    "timeMonth": 673,
+    "timeYear": 673,
     "dailyMinutesDown": {
-      "2022-06-15": 0
+      "2022-06-15": 14
     }
   },
   {
