@@ -149,11 +149,11 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "ss-hception-ka-ki87",
     "status": "up",
-    "uptime": "98.45%",
+    "uptime": "98.46%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.70%",
-    "uptimeYear": "98.45%",
+    "uptimeYear": "98.46%",
     "time": 135,
     "timeDay": 186,
     "timeWeek": 158,
@@ -229,9 +229,9 @@
     "url": "https://netdata.katys.cf",
     "icon": "https://favicons.githubusercontent.com/netdata.katys.cf",
     "slug": "netdata",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -240,7 +240,9 @@
     "timeWeek": 1112,
     "timeMonth": 1101,
     "timeYear": 974,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-19": 0
+    }
   },
   {
     "name": "Glitchgit @ KaKi87",
