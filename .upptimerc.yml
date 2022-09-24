@@ -39,10 +39,6 @@ sites:
     url: ssh.kaki87.net
     port: 22
     check: "tcp-ping"
-  - name: SSHception web @ KaKi87
-    url: https://ssh.kaki87.net
-    expectedStatusCodes:
-      - 200
   - name: cv.vg dev API @ KaKi87
     url: https://d.cv.vg
     expectedStatusCodes:
