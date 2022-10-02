@@ -2,7 +2,7 @@
   {
     "name": "Portfolio @ Tiana Lemesle",
     "url": "https://tianalemesle.fr",
-    "icon": "https://favicons.githubusercontent.com/tianalemesle.fr",
+    "icon": "https://icons.duckduckgo.com/ip3/tianalemesle.fr.ico",
     "slug": "portfolio-tiana-lemesle",
     "status": "up",
     "uptime": "99.98%",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.98%",
-    "time": 723,
-    "timeDay": 667,
-    "timeWeek": 694,
-    "timeMonth": 683,
-    "timeYear": 723,
+    "time": 722,
+    "timeDay": 645,
+    "timeWeek": 693,
+    "timeMonth": 678,
+    "timeYear": 722,
     "dailyMinutesDown": {
       "2022-09-23": 43
     }
@@ -22,7 +22,7 @@
   {
     "name": "Shields @ KaKi87",
     "url": "https://shields.kaki87.net",
-    "icon": "https://favicons.githubusercontent.com/shields.kaki87.net",
+    "icon": "https://icons.duckduckgo.com/ip3/shields.kaki87.net.ico",
     "slug": "shields-ka-ki87",
     "status": "up",
     "uptime": "99.99%",
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
-    "time": 818,
-    "timeDay": 606,
-    "timeWeek": 738,
-    "timeMonth": 764,
-    "timeYear": 818,
+    "time": 817,
+    "timeDay": 663,
+    "timeWeek": 719,
+    "timeMonth": 752,
+    "timeYear": 817,
     "dailyMinutesDown": {
       "2022-09-23": 23
     }
@@ -42,7 +42,7 @@
   {
     "name": "Gitea @ KaKi87",
     "url": "https://git.kaki87.net",
-    "icon": "https://favicons.githubusercontent.com/git.kaki87.net",
+    "icon": "https://icons.duckduckgo.com/ip3/git.kaki87.net.ico",
     "slug": "gitea-ka-ki87",
     "status": "up",
     "uptime": "99.99%",
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
-    "time": 778,
-    "timeDay": 702,
-    "timeWeek": 790,
-    "timeMonth": 857,
-    "timeYear": 778,
+    "time": 780,
+    "timeDay": 937,
+    "timeWeek": 815,
+    "timeMonth": 856,
+    "timeYear": 780,
     "dailyMinutesDown": {
       "2022-09-23": 23
     }
@@ -62,7 +62,7 @@
   {
     "name": "Play Search @ KaKi87",
     "url": "https://api.playsearch.kaki87.net",
-    "icon": "https://favicons.githubusercontent.com/api.playsearch.kaki87.net",
+    "icon": "https://icons.duckduckgo.com/ip3/api.playsearch.kaki87.net.ico",
     "slug": "play-search-ka-ki87",
     "status": "up",
     "uptime": "99.99%",
@@ -70,11 +70,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
-    "time": 658,
-    "timeDay": 519,
-    "timeWeek": 623,
+    "time": 659,
+    "timeDay": 817,
+    "timeWeek": 670,
     "timeMonth": 701,
-    "timeYear": 658,
+    "timeYear": 659,
     "dailyMinutesDown": {
       "2022-09-23": 22
     }
@@ -82,7 +82,7 @@
   {
     "name": "Unrestrict @ KaKi87",
     "url": "https://unrestrict.kaki87.net/",
-    "icon": "https://favicons.githubusercontent.com/unrestrict.kaki87.net",
+    "icon": "https://icons.duckduckgo.com/ip3/unrestrict.kaki87.net.ico",
     "slug": "unrestrict-ka-ki87",
     "status": "up",
     "uptime": "99.99%",
@@ -90,11 +90,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
-    "time": 605,
-    "timeDay": 400,
-    "timeWeek": 619,
-    "timeMonth": 655,
-    "timeYear": 605,
+    "time": 604,
+    "timeDay": 507,
+    "timeWeek": 601,
+    "timeMonth": 645,
+    "timeYear": 604,
     "dailyMinutesDown": {
       "2022-09-23": 22
     }
@@ -102,7 +102,7 @@
   {
     "name": "LibreSpeed @ KaKi87",
     "url": "https://speedtest.kaki87.net/",
-    "icon": "https://favicons.githubusercontent.com/speedtest.kaki87.net",
+    "icon": "https://icons.duckduckgo.com/ip3/speedtest.kaki87.net.ico",
     "slug": "libre-speed-ka-ki87",
     "status": "up",
     "uptime": "99.99%",
@@ -110,11 +110,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
-    "time": 602,
-    "timeDay": 655,
-    "timeWeek": 628,
-    "timeMonth": 629,
-    "timeYear": 602,
+    "time": 603,
+    "timeDay": 781,
+    "timeWeek": 652,
+    "timeMonth": 628,
+    "timeYear": 603,
     "dailyMinutesDown": {
       "2022-09-23": 21
     }
@@ -122,7 +122,7 @@
   {
     "name": "General API @ KaKi87",
     "url": "https://api.kaki87.net",
-    "icon": "https://favicons.githubusercontent.com/api.kaki87.net",
+    "icon": "https://icons.duckduckgo.com/ip3/api.kaki87.net.ico",
     "slug": "general-api-ka-ki87",
     "status": "up",
     "uptime": "99.99%",
@@ -130,11 +130,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
-    "time": 645,
-    "timeDay": 479,
-    "timeWeek": 542,
+    "time": 646,
+    "timeDay": 819,
+    "timeWeek": 577,
     "timeMonth": 883,
-    "timeYear": 645,
+    "timeYear": 646,
     "dailyMinutesDown": {
       "2022-09-23": 21
     }
@@ -142,7 +142,7 @@
   {
     "name": "CestLaGreve API @ KaKi87",
     "url": "https://cestlagreve.api.kaki87.net",
-    "icon": "https://favicons.githubusercontent.com/cestlagreve.api.kaki87.net",
+    "icon": "https://icons.duckduckgo.com/ip3/cestlagreve.api.kaki87.net.ico",
     "slug": "cest-la-greve-api-ka-ki87",
     "status": "up",
     "uptime": "99.99%",
@@ -151,9 +151,9 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
     "time": 574,
-    "timeDay": 720,
-    "timeWeek": 565,
-    "timeMonth": 578,
+    "timeDay": 661,
+    "timeWeek": 605,
+    "timeMonth": 573,
     "timeYear": 574,
     "dailyMinutesDown": {
       "2022-09-23": 20
@@ -162,7 +162,7 @@
   {
     "name": "SSHception @ KaKi87",
     "url": "ssh.kaki87.net",
-    "icon": "https://favicons.githubusercontent.com/null",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ss-hception-ka-ki87",
     "status": "up",
     "uptime": "99.27%",
@@ -171,9 +171,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.27%",
     "time": 160,
-    "timeDay": 208,
-    "timeWeek": 199,
-    "timeMonth": 211,
+    "timeDay": 225,
+    "timeWeek": 218,
+    "timeMonth": 208,
     "timeYear": 160,
     "dailyMinutesDown": {
       "2022-08-03": 27,
@@ -188,7 +188,7 @@
   {
     "name": "cv.vg dev API @ KaKi87",
     "url": "https://d.cv.vg",
-    "icon": "https://favicons.githubusercontent.com/d.cv.vg",
+    "icon": "https://icons.duckduckgo.com/ip3/d.cv.vg.ico",
     "slug": "cv-vg-dev-api-ka-ki87",
     "status": "up",
     "uptime": "99.99%",
@@ -196,11 +196,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
-    "time": 1589,
-    "timeDay": 1394,
-    "timeWeek": 1642,
-    "timeMonth": 1707,
-    "timeYear": 1589,
+    "time": 1590,
+    "timeDay": 1701,
+    "timeWeek": 1712,
+    "timeMonth": 1695,
+    "timeYear": 1590,
     "dailyMinutesDown": {
       "2022-09-23": 20
     }
@@ -208,7 +208,7 @@
   {
     "name": "Tolgee @ KaKi87",
     "url": "https://i18n.kaki87.net",
-    "icon": "https://favicons.githubusercontent.com/i18n.kaki87.net",
+    "icon": "https://icons.duckduckgo.com/ip3/i18n.kaki87.net.ico",
     "slug": "tolgee-ka-ki87",
     "status": "up",
     "uptime": "99.99%",
@@ -217,9 +217,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 632,
-    "timeDay": 640,
-    "timeWeek": 724,
-    "timeMonth": 622,
+    "timeDay": 724,
+    "timeWeek": 757,
+    "timeMonth": 624,
     "timeYear": 632,
     "dailyMinutesDown": {
       "2022-09-23": 19
@@ -228,19 +228,19 @@
   {
     "name": "Netdata",
     "url": "https://netdata.katys.cf",
-    "icon": "https://favicons.githubusercontent.com/netdata.katys.cf",
+    "icon": "https://icons.duckduckgo.com/ip3/netdata.katys.cf.ico",
     "slug": "netdata",
     "status": "up",
-    "uptime": "90.62%",
+    "uptime": "90.69%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "90.62%",
-    "time": 985,
-    "timeDay": 870,
-    "timeWeek": 1008,
-    "timeMonth": 968,
-    "timeYear": 985,
+    "uptimeYear": "90.69%",
+    "time": 986,
+    "timeDay": 1040,
+    "timeWeek": 1032,
+    "timeMonth": 966,
+    "timeYear": 986,
     "dailyMinutesDown": {
       "2022-09-23": 19,
       "2022-08-27": 464,
@@ -263,7 +263,7 @@
   {
     "name": "Glitchgit @ KaKi87",
     "url": "https://glitchgit.kaki87.net",
-    "icon": "https://favicons.githubusercontent.com/glitchgit.kaki87.net",
+    "icon": "https://icons.duckduckgo.com/ip3/glitchgit.kaki87.net.ico",
     "slug": "glitchgit-ka-ki87",
     "status": "up",
     "uptime": "99.99%",
@@ -272,9 +272,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 570,
-    "timeDay": 479,
-    "timeWeek": 569,
-    "timeMonth": 592,
+    "timeDay": 615,
+    "timeWeek": 592,
+    "timeMonth": 586,
     "timeYear": 570,
     "dailyMinutesDown": {
       "2022-09-23": 18
@@ -283,7 +283,7 @@
   {
     "name": "Apache",
     "url": "148.251.48.170",
-    "icon": "https://favicons.githubusercontent.com/null",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "apache",
     "status": "up",
     "uptime": "100.00%",
@@ -291,17 +291,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 140,
-    "timeDay": 95,
-    "timeWeek": 113,
-    "timeMonth": 116,
-    "timeYear": 140,
+    "time": 139,
+    "timeDay": 123,
+    "timeWeek": 116,
+    "timeMonth": 115,
+    "timeYear": 139,
     "dailyMinutesDown": {}
   },
   {
     "name": "Chat @ KaKi87",
     "url": "https://chat.kaki87.net/_matrix/client/versions",
-    "icon": "https://favicons.githubusercontent.com/chat.kaki87.net",
+    "icon": "https://icons.duckduckgo.com/ip3/chat.kaki87.net.ico",
     "slug": "chat-ka-ki87",
     "status": "up",
     "uptime": "99.93%",
@@ -309,11 +309,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.93%",
-    "time": 656,
-    "timeDay": 492,
-    "timeWeek": 492,
-    "timeMonth": 555,
-    "timeYear": 656,
+    "time": 655,
+    "timeDay": 509,
+    "timeWeek": 503,
+    "timeMonth": 550,
+    "timeYear": 655,
     "dailyMinutesDown": {
       "2022-09-23": 18,
       "2022-06-30": 110
