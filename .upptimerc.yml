@@ -35,10 +35,6 @@ sites:
     url: https://cestlagreve.api.kaki87.net
     expectedStatusCodes:
       - 204
-  - name: SSHception @ KaKi87
-    url: ssh.kaki87.net
-    port: 22
-    check: "tcp-ping"
   - name: cv.vg dev API @ KaKi87
     url: https://d.cv.vg
     expectedStatusCodes:
@@ -59,10 +55,18 @@ sites:
     url: 148.251.48.170
     port: 443
     check: "tcp-ping"
-  - name: Chat @ KaKi87
+  - name: Chat I (Matrix) @ KaKi87
     url: https://chat.kaki87.net/_matrix/client/versions
     expectedStatusCodes:
       - 200
+  - name: Chat II (Fosscord) @ KaKi87
+    url: https://chat2.kaki87.net
+    expectedStatusCodes:
+      - 200
+  - name: Tauri update server @ KaKi87
+    url: https://tauri-updates.kaki87.net
+    expectedStatusCodes:
+      - 404
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
