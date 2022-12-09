@@ -19,10 +19,6 @@ sites:
     url: https://api.playsearch.kaki87.net
     expectedStatusCodes:
       - 404
-  - name: Unrestrict @ KaKi87
-    url: https://unrestrict.kaki87.net/
-    expectedStatusCodes:
-      - 200
   - name: General API @ KaKi87
     url: https://api.kaki87.net
     expectedStatusCodes:
