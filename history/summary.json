@@ -68,9 +68,9 @@
     "url": "https://api.playsearch.kaki87.net",
     "icon": "https://icons.duckduckgo.com/ip3/api.playsearch.kaki87.net.ico",
     "slug": "play-search-ka-ki87",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
@@ -80,6 +80,7 @@
     "timeMonth": 701,
     "timeYear": 688,
     "dailyMinutesDown": {
+      "2022-12-10": 0,
       "2022-11-30": 19,
       "2022-09-23": 22
     }
@@ -153,11 +154,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/netdata.katys.cf.ico",
     "slug": "netdata",
     "status": "up",
-    "uptime": "93.77%",
+    "uptime": "93.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "93.77%",
+    "uptimeYear": "93.78%",
     "time": 1033,
     "timeDay": 1017,
     "timeWeek": 1024,
