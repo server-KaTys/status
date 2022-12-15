@@ -56,6 +56,10 @@ sites:
     url: https://analytics.kaki87.net
     expectedStatusCodes:
       - 200
+  - name: Subtitle Search @ KaKi87
+    url: https://api.subtitle-search.kaki87.net
+    expectedStatusCodes:
+      - 404
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
