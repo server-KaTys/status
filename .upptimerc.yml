@@ -27,7 +27,7 @@ sites:
     url: https://cestlagreve.api.kaki87.net
     expectedStatusCodes:
       - 204
-  - name: cv.vg dev API @ KaKi87
+  - name: Dev API @ cv.vg
     url: https://d.cv.vg
     expectedStatusCodes:
       - 200
