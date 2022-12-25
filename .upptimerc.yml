@@ -35,10 +35,10 @@ sites:
     url: https://netdata.katys.cf
     expectedStatusCodes:
       - 200
-  - name: Glitchgit @ KaKi87
-    url: https://glitchgit.kaki87.net
+  - name: Sentry @ KaKi87
+    url: https://sentry.kaki87.net
     expectedStatusCodes:
-      - 204
+      - 200
   - name: Apache
     url: https://37.187.135.104
     expectedStatusCodes:
