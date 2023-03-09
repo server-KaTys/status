@@ -21,8 +21,6 @@ sites:
       - 404
   - name: General API @ KaKi87
     url: https://api.kaki87.net
-    expectedStatusCodes:
-      - 404
   - name: CestLaGreve API @ KaKi87
     url: https://cestlagreve.api.kaki87.net
     expectedStatusCodes:
