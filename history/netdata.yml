@@ -1,7 +1,7 @@
 url: https://netdata.katys.cf
-status: up
-code: 200
-responseTime: 1104
-lastUpdated: 2023-03-08T23:17:43.939Z
+status: down
+code: 503
+responseTime: 768
+lastUpdated: 2023-03-09T06:47:32.943Z
 startTime: Sun May 15 2022 19:03:47 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
