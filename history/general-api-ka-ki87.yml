@@ -1,7 +1,7 @@
 url: https://api.kaki87.net
-status: up
-code: 301
-responseTime: 504
-lastUpdated: 2023-04-03T23:14:32.348Z
+status: down
+code: 503
+responseTime: 360
+lastUpdated: 2023-04-04T02:53:46.973Z
 startTime: Sun May 15 2022 18:38:52 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
