@@ -33,7 +33,7 @@ sites:
     expectedStatusCodes:
       - 200
   - name: Netdata
-    url: https://netdata.katys.cf
+    url: https://netdata.katys.eu.org
     expectedStatusCodes:
       - 200
   - name: Sentry @ KaKi87
