@@ -1,7 +1,7 @@
 url: https://chat.kaki87.net/_matrix/client/versions
-status: up
-code: 200
-responseTime: 378
-lastUpdated: 2023-10-27T23:13:43.259Z
+status: down
+code: 503
+responseTime: 527
+lastUpdated: 2023-10-28T07:33:28.044Z
 startTime: 2022-12-09T22:54:34.000Z
 generator: Upptime <https://github.com/upptime/upptime>
