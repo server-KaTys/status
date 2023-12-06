@@ -10,17 +10,16 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 721,
+    "time": 715,
     "timeDay": 0,
     "timeWeek": 701,
     "timeMonth": 674,
-    "timeYear": 709,
+    "timeYear": 708,
     "dailyMinutesDown": {
       "2023-10-11": 16,
       "2023-06-11": 38,
       "2023-04-11": 19,
-      "2023-02-26": 18,
-      "2022-12-06": 16
+      "2023-02-26": 18
     }
   },
   {
@@ -38,7 +37,7 @@
     "timeDay": 0,
     "timeWeek": 790,
     "timeMonth": 717,
-    "timeYear": 553,
+    "timeYear": 552,
     "dailyMinutesDown": {
       "2023-10-11": 16,
       "2023-10-03": 45,
@@ -62,7 +61,7 @@
     "timeDay": 0,
     "timeWeek": 822,
     "timeMonth": 757,
-    "timeYear": 617,
+    "timeYear": 616,
     "dailyMinutesDown": {
       "2023-10-11": 15,
       "2023-06-11": 24,
@@ -85,7 +84,7 @@
     "timeDay": 0,
     "timeWeek": 670,
     "timeMonth": 633,
-    "timeYear": 508,
+    "timeYear": 507,
     "dailyMinutesDown": {
       "2023-06-11": 23,
       "2023-04-11": 18,
@@ -130,18 +129,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/cestlagreve.api.kaki87.net.ico",
     "slug": "cest-la-greve-api-ka-ki87",
     "status": "down",
-    "uptime": "99.76%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "91.32%",
-    "uptimeMonth": "97.61%",
-    "uptimeYear": "99.64%",
+    "uptime": "99.75%",
+    "uptimeDay": "92.45%",
+    "uptimeWeek": "90.25%",
+    "uptimeMonth": "97.36%",
+    "uptimeYear": "99.62%",
     "time": 515,
     "timeDay": 763,
     "timeWeek": 662,
     "timeMonth": 599,
     "timeYear": 498,
     "dailyMinutesDown": {
-      "2023-12-05": 0,
+      "2023-12-06": 64,
+      "2023-12-05": 45,
       "2023-12-03": 89,
       "2023-12-02": 544,
       "2023-11-29": 240,
@@ -244,7 +244,7 @@
     "timeDay": 0,
     "timeWeek": 370,
     "timeMonth": 337,
-    "timeYear": 340,
+    "timeYear": 341,
     "dailyMinutesDown": {}
   },
   {
@@ -282,7 +282,7 @@
     "timeDay": 0,
     "timeWeek": 591,
     "timeMonth": 527,
-    "timeYear": 486,
+    "timeYear": 485,
     "dailyMinutesDown": {}
   },
   {
