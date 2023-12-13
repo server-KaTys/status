@@ -3,65 +3,65 @@ owner: server-KaTys # Your GitHub organization or username, where this repositor
 repo: status # The name of this repository
 
 sites:
-  - name: [Tiana Lemesle] Portfolio
+  - name: '[Tiana Lemesle] Portfolio'
     url: https://tianalemesle.fr
     expectedStatusCodes:
       - 200
-  - name: [KaKi87] Shields
+  - name: '[KaKi87] Shields'
     url: https://shields.kaki87.net
     expectedStatusCodes:
       - 404
-  - name: [KaKi87] Git
+  - name: '[KaKi87] Git'
     url: https://git.kaki87.net
     expectedStatusCodes:
       - 200
-  - name: [KaKi87] Play Search
+  - name: '[KaKi87] Play Search'
     url: https://api.playsearch.kaki87.net
     expectedStatusCodes:
       - 404
-  - name: [KaKi87] General API
+  - name: '[KaKi87] General API'
     url: https://api.kaki87.net
     expectedStatusCodes:
       - 301
     maxRedirects: 0
-  - name: [KaKi87] CestLaGreve API
+  - name: '[KaKi87] CestLaGreve API'
     url: https://cestlagreve.api.kaki87.net
     expectedStatusCodes:
       - 204
-  - name: [cv.vg] Dev API
+  - name: '[cv.vg] Dev API'
     url: https://d.cv.vg
     expectedStatusCodes:
       - 200
-  - name: Netdata
+  - name: 'Netdata'
     url: https://netdata.katys.eu.org
     expectedStatusCodes:
       - 200
-  - name: [KaKi87] Sentry
+  - name: '[KaKi87] Sentry'
     url: https://sentry.kaki87.net
     expectedStatusCodes:
       - 200
-  - name: Apache
+  - name: 'Apache'
     url: https://37.187.135.104
     expectedStatusCodes:
       - 200
     __dangerous__insecure: true
-  - name: [KaKi87] Chat (Matrix)
+  - name: '[KaKi87] Chat (Matrix)'
     url: https://chat.kaki87.net/_matrix/client/versions
     expectedStatusCodes:
       - 200
-  - name: [KaKi87] Tauri updates
+  - name: '[KaKi87] Tauri updates'
     url: https://tauri-updates.kaki87.net
     expectedStatusCodes:
       - 404
-  - name: [KaKi87] Analytics
+  - name: '[KaKi87] Analytics'
     url: https://analytics.kaki87.net
     expectedStatusCodes:
       - 200
-  - name: [KaKi87] Subtitle Search
+  - name: '[KaKi87] Subtitle Search'
     url: https://api.subtitle-search.kaki87.net
     expectedStatusCodes:
       - 404
-  - name: [KaKi87] Invite Tracker - Discord bot
+  - name: '[KaKi87] Invite Tracker - Discord bot'
     url: https://discord.com/api/guilds/1184503220060573746/widget.json
     expectedStatusCodes:
       - 200
