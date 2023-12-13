@@ -3,32 +3,32 @@ owner: server-KaTys # Your GitHub organization or username, where this repositor
 repo: status # The name of this repository
 
 sites:
-  - name: Portfolio @ Tiana Lemesle
+  - name: [Tiana Lemesle] Portfolio
     url: https://tianalemesle.fr
     expectedStatusCodes:
       - 200
-  - name: Shields @ KaKi87
+  - name: [KaKi87] Shields
     url: https://shields.kaki87.net
     expectedStatusCodes:
       - 404
-  - name: Gitea @ KaKi87
+  - name: [KaKi87] Git
     url: https://git.kaki87.net
     expectedStatusCodes:
       - 200
-  - name: Play Search @ KaKi87
+  - name: [KaKi87] Play Search
     url: https://api.playsearch.kaki87.net
     expectedStatusCodes:
       - 404
-  - name: General API @ KaKi87
+  - name: [KaKi87] General API
     url: https://api.kaki87.net
     expectedStatusCodes:
       - 301
     maxRedirects: 0
-  - name: CestLaGreve API @ KaKi87
+  - name: [KaKi87] CestLaGreve API
     url: https://cestlagreve.api.kaki87.net
     expectedStatusCodes:
       - 204
-  - name: Dev API @ cv.vg
+  - name: [cv.vg] Dev API
     url: https://d.cv.vg
     expectedStatusCodes:
       - 200
@@ -36,7 +36,7 @@ sites:
     url: https://netdata.katys.eu.org
     expectedStatusCodes:
       - 200
-  - name: Sentry @ KaKi87
+  - name: [KaKi87] Sentry
     url: https://sentry.kaki87.net
     expectedStatusCodes:
       - 200
@@ -45,22 +45,27 @@ sites:
     expectedStatusCodes:
       - 200
     __dangerous__insecure: true
-  - name: Chat (Matrix) @ KaKi87
+  - name: [KaKi87] Chat (Matrix)
     url: https://chat.kaki87.net/_matrix/client/versions
     expectedStatusCodes:
       - 200
-  - name: Tauri update server @ KaKi87
+  - name: [KaKi87] Tauri updates
     url: https://tauri-updates.kaki87.net
     expectedStatusCodes:
       - 404
-  - name: Analytics @ KaKi87
+  - name: [KaKi87] Analytics
     url: https://analytics.kaki87.net
     expectedStatusCodes:
       - 200
-  - name: Subtitle Search @ KaKi87
+  - name: [KaKi87] Subtitle Search
     url: https://api.subtitle-search.kaki87.net
     expectedStatusCodes:
       - 404
+  - name: [KaKi87] Invite Tracker - Discord bot
+    url: https://discord.com/api/guilds/1184503220060573746/widget.json
+    expectedStatusCodes:
+      - 200
+    __dangerous__body_down_if_text_missing: '"username":"Invite Tracker","discriminator":"0000","avatar":null,"status":"online"'
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
