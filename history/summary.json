@@ -131,7 +131,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/netdata.katys.eu.org.ico",
     "slug": "netdata",
     "status": "up",
-    "uptime": "95.57%",
+    "uptime": "95.58%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.45%",
     "uptimeMonth": "99.64%",
@@ -279,18 +279,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/discord.com.ico",
     "slug": "ka-ki87-invite-tracker-discord-bot",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.05%",
+    "uptimeDay": "97.70%",
+    "uptimeWeek": "99.05%",
+    "uptimeMonth": "99.05%",
+    "uptimeYear": "99.05%",
     "time": 234,
     "timeDay": 348,
     "timeWeek": 234,
     "timeMonth": 234,
     "timeYear": 234,
     "dailyMinutesDown": {
-      "2023-12-16": 0
+      "2023-12-16": 33
     }
   }
 ]
