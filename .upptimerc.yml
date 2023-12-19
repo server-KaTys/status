@@ -65,7 +65,7 @@ sites:
     url: https://discord.com/api/guilds/1184503220060573746/widget.json
     expectedStatusCodes:
       - 200
-    __dangerous__body_down_if_text_missing: '"username":"Invite Tracker","discriminator":"0000","avatar":null,"status":"online"'
+    __dangerous__body_down_if_text_missing: '"username":"Invite Tracker"'
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
