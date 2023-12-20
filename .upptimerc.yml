@@ -15,6 +15,10 @@ sites:
     url: https://git.kaki87.net
     expectedStatusCodes:
       - 200
+  - name: '[KaKi87] Git - SSH'
+    check: tcp-ping
+    url: git.kaki87.net
+    port: 3021
   - name: '[KaKi87] Play Search'
     url: https://api.playsearch.kaki87.net
     expectedStatusCodes:
@@ -74,6 +78,26 @@ sites:
     url: $PRIVATE_SERVICE_2_URL
     expectedStatusCodes:
       - 200
+  - name: '[KaKi87] Downloads'
+    url: https://dl.kaki87.net
+    expectedStatusCodes:
+      - 200
+  - name: '[KaKi87] Mail - SMTP (port 25)'
+    check: tcp-ping
+    url: kaki87.net
+    port: 25
+  - name: '[KaKi87] Mail - SMTP (port 465)'
+    check: tcp-ping
+    url: kaki87.net
+    port: 465
+  - name: '[KaKi87] Mail - SMTP (port 587)'
+    check: tcp-ping
+    url: kaki87.net
+    port: 587
+  - name: '[KaKi87] Mail - IMAP'
+    check: tcp-ping
+    url: kaki87.net
+    port: 993
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
