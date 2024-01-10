@@ -1,7 +1,7 @@
 url: https://netdata.katys.eu.org
-status: down
-code: 503
-responseTime: 883
-lastUpdated: 2024-01-10T11:12:53.392Z
+status: up
+code: 200
+responseTime: 536
+lastUpdated: 2024-01-10T11:20:56.510Z
 startTime: 2022-05-15T19:03:47.000Z
 generator: Upptime <https://github.com/upptime/upptime>
