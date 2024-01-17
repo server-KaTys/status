@@ -50,9 +50,10 @@ sites:
       - 200
     __dangerous__insecure: true
   - name: '[KaKi87] Chat (Matrix)'
-    url: https://chat.kaki87.net/_matrix/client/versions
+    url: https://federationtester.matrix.org/api/report?server_name=chat.kaki87.net
     expectedStatusCodes:
       - 200
+    __dangerous__body_down_if_text_missing: '"FederationOK": true'
   - name: '[KaKi87] Tauri updates'
     url: https://tauri-updates.kaki87.net
     expectedStatusCodes:
