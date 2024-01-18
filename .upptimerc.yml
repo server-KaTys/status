@@ -99,6 +99,10 @@ sites:
     check: tcp-ping
     url: kaki87.net
     port: 993
+  - name: '[KaKi87] Changedetection'
+    url: https://changedetection.kaki87.net
+    expectedStatusCodes:
+      - 302
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
