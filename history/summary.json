@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 952,
-    "timeDay": 1591,
-    "timeWeek": 1153,
-    "timeMonth": 1000,
-    "timeYear": 952,
+    "time": 943,
+    "timeDay": 1417,
+    "timeWeek": 1102,
+    "timeMonth": 989,
+    "timeYear": 943,
     "dailyMinutesDown": {}
   },
   {
@@ -450,18 +450,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/changedetection.kaki87.net.ico",
     "slug": "ka-ki87-changedetection",
     "status": "up",
-    "uptime": "9.51%",
-    "uptimeDay": "9.51%",
-    "uptimeWeek": "9.51%",
-    "uptimeMonth": "9.51%",
-    "uptimeYear": "9.51%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 482,
     "timeDay": 482,
     "timeWeek": 482,
     "timeMonth": 482,
     "timeYear": 482,
-    "dailyMinutesDown": {
-      "2024-01-18": 2
-    }
+    "dailyMinutesDown": {}
   }
 ]
