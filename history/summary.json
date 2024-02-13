@@ -484,17 +484,19 @@
     "url": "https://changedetection.kaki87.net",
     "icon": "https://icons.duckduckgo.com/ip3/changedetection.kaki87.net.ico",
     "slug": "ka-ki87-changedetection",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 566,
-    "timeDay": 508,
-    "timeWeek": 522,
-    "timeMonth": 566,
-    "timeYear": 566,
-    "dailyMinutesDown": {}
+    "time": 559,
+    "timeDay": 434,
+    "timeWeek": 501,
+    "timeMonth": 559,
+    "timeYear": 559,
+    "dailyMinutesDown": {
+      "2024-02-13": 0
+    }
   }
 ]
