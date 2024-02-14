@@ -36,8 +36,8 @@ sites:
     url: https://d.cv.vg
     expectedStatusCodes:
       - 200
-  - name: 'Netdata'
-    url: https://netdata.katys.eu.org
+  - name: 'Dashboard'
+    url: https://dashboard.katys.eu.org
     expectedStatusCodes:
       - 200
   - name: '[KaKi87] Sentry'
