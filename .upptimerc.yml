@@ -118,6 +118,8 @@ status-website:
       href: /
     - title: About
       href: https://katys.eu.org
+    - title: Dashboard
+      href: https://dashboard.katys.eu.org
   theme: night
 
 # Upptime also supports notifications, assigning issues, and more
