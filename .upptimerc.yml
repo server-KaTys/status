@@ -40,10 +40,6 @@ sites:
     url: https://dashboard.katys.eu.org
     expectedStatusCodes:
       - 200
-  - name: '[KaKi87] Sentry'
-    url: https://sentry.kaki87.net
-    expectedStatusCodes:
-      - 200
   - name: 'Apache'
     url: https://37.187.135.104
     expectedStatusCodes:
@@ -72,7 +68,7 @@ sites:
       - 200
     __dangerous__body_down_if_text_missing: '"username":"Invite Tracker"'
   - name: '[KaKi87] Warez - Discord bot'
-    url: $PRIVATE_DISCORD_URL
+    url: $DISCORD_WAREZ_MONITORING_GUILD_URL
     expectedStatusCodes:
       - 200
     __dangerous__body_down_if_text_missing: '"username":"Warez"'
