@@ -71,10 +71,13 @@ sites:
     expectedStatusCodes:
       - 200
     __dangerous__body_down_if_text_missing: '"username":"Invite Tracker"'
-  - name: '[KaKi87] Private service #1 - API'
-    url: $PRIVATE_SERVICE_1_URL
+  - name: '[KaKi87] Warez - Discord bot'
+    url: $PRIVATE_DISCORD_URL
     expectedStatusCodes:
-      - 404
+      - 200
+    __dangerous__body_down_if_text_missing: '"username":"Warez"'
+  - name: '[KaKi87] Warez Download API'
+    url: https://wzdl.kaki87.net
   - name: '[KaKi87] Private service #2 - App'
     url: $PRIVATE_SERVICE_2_URL
     expectedStatusCodes:
