@@ -300,18 +300,19 @@
     "url": "https://discord.com/api/guilds/1184503220060573746/widget.json",
     "icon": "https://icons.duckduckgo.com/ip3/discord.com.ico",
     "slug": "ka-ki87-invite-tracker-discord-bot",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 177,
-    "timeDay": 183,
-    "timeWeek": 319,
-    "timeMonth": 194,
+    "timeDay": 146,
+    "timeWeek": 301,
+    "timeMonth": 191,
     "timeYear": 177,
     "dailyMinutesDown": {
+      "2024-03-31": 0,
       "2023-12-16": 67
     }
   },
@@ -320,18 +321,20 @@
     "url": "$DISCORD_WAREZ_MONITORING_GUILD_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ka-ki87-warez-discord-bot",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 106,
-    "timeDay": 118,
-    "timeWeek": 116,
-    "timeMonth": 106,
-    "timeYear": 106,
-    "dailyMinutesDown": {}
+    "time": 102,
+    "timeDay": 67,
+    "timeWeek": 108,
+    "timeMonth": 102,
+    "timeYear": 102,
+    "dailyMinutesDown": {
+      "2024-03-31": 0
+    }
   },
   {
     "name": "[KaKi87] Warez Download API",
