@@ -4,10 +4,10 @@
     "url": "https://tianalemesle.fr",
     "icon": "https://icons.duckduckgo.com/ip3/tianalemesle.fr.ico",
     "slug": "tiana-lemesle-portfolio",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 766,
@@ -16,6 +16,7 @@
     "timeMonth": 673,
     "timeYear": 766,
     "dailyMinutesDown": {
+      "2024-04-04": 2,
       "2024-02-14": 34,
       "2024-01-24": 20
     }
@@ -25,10 +26,10 @@
     "url": "https://shields.kaki87.net",
     "icon": "https://icons.duckduckgo.com/ip3/shields.kaki87.net.ico",
     "slug": "ka-ki87-shields",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
     "time": 555,
@@ -37,6 +38,7 @@
     "timeMonth": 509,
     "timeYear": 555,
     "dailyMinutesDown": {
+      "2024-04-04": 1,
       "2024-03-05": 16,
       "2024-02-14": 34,
       "2024-01-24": 20
@@ -47,10 +49,10 @@
     "url": "https://git.kaki87.net",
     "icon": "https://icons.duckduckgo.com/ip3/git.kaki87.net.ico",
     "slug": "ka-ki87-git",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
     "time": 675,
@@ -59,6 +61,7 @@
     "timeMonth": 651,
     "timeYear": 675,
     "dailyMinutesDown": {
+      "2024-04-04": 1,
       "2024-02-14": 33,
       "2024-01-24": 20,
       "2024-01-17": 80
@@ -113,9 +116,9 @@
     "slug": "ka-ki87-general-api",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.47%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.96%",
     "time": 538,
     "timeDay": 407,
@@ -123,7 +126,6 @@
     "timeMonth": 489,
     "timeYear": 538,
     "dailyMinutesDown": {
-      "2024-04-04": 8,
       "2024-03-18": 15,
       "2024-02-14": 27,
       "2024-01-24": 20
@@ -136,9 +138,9 @@
     "slug": "ka-ki87-cest-la-greve-api",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 519,
     "timeDay": 354,
@@ -146,7 +148,6 @@
     "timeMonth": 509,
     "timeYear": 519,
     "dailyMinutesDown": {
-      "2024-04-04": 7,
       "2024-02-14": 27,
       "2024-01-24": 20
     }
@@ -158,9 +159,9 @@
     "slug": "cv-vg-dev-api",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 1256,
     "timeDay": 873,
@@ -168,7 +169,6 @@
     "timeMonth": 1181,
     "timeYear": 1256,
     "dailyMinutesDown": {
-      "2024-04-04": 7,
       "2024-02-14": 26,
       "2024-01-24": 20
     }
@@ -179,19 +179,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/dashboard.katys.eu.org.ico",
     "slug": "dashboard",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 783,
     "timeDay": 621,
     "timeWeek": 730,
     "timeMonth": 786,
     "timeYear": 783,
-    "dailyMinutesDown": {
-      "2024-04-04": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Apache",
