@@ -111,11 +111,11 @@
     "url": "https://api.kaki87.net",
     "icon": "https://icons.duckduckgo.com/ip3/api.kaki87.net.ico",
     "slug": "ka-ki87-general-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
     "time": 539,
     "timeDay": 433,
@@ -123,6 +123,7 @@
     "timeMonth": 492,
     "timeYear": 539,
     "dailyMinutesDown": {
+      "2024-04-04": 2,
       "2024-03-18": 15,
       "2024-02-14": 27,
       "2024-01-24": 20
@@ -133,10 +134,10 @@
     "url": "https://cestlagreve.api.kaki87.net",
     "icon": "https://icons.duckduckgo.com/ip3/cestlagreve.api.kaki87.net.ico",
     "slug": "ka-ki87-cest-la-greve-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 520,
@@ -145,6 +146,7 @@
     "timeMonth": 514,
     "timeYear": 520,
     "dailyMinutesDown": {
+      "2024-04-04": 2,
       "2024-02-14": 27,
       "2024-01-24": 20
     }
@@ -154,10 +156,10 @@
     "url": "https://d.cv.vg",
     "icon": "https://icons.duckduckgo.com/ip3/d.cv.vg.ico",
     "slug": "cv-vg-dev-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 1260,
@@ -166,6 +168,7 @@
     "timeMonth": 1191,
     "timeYear": 1260,
     "dailyMinutesDown": {
+      "2024-04-04": 1,
       "2024-02-14": 26,
       "2024-01-24": 20
     }
@@ -175,10 +178,10 @@
     "url": "https://dashboard.katys.eu.org",
     "icon": "https://icons.duckduckgo.com/ip3/dashboard.katys.eu.org.ico",
     "slug": "dashboard",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 788,
@@ -186,7 +189,9 @@
     "timeWeek": 757,
     "timeMonth": 793,
     "timeYear": 788,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-04": 1
+    }
   },
   {
     "name": "Apache",
