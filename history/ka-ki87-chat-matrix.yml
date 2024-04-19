@@ -1,7 +1,7 @@
 url: https://federationtester.matrix.org/api/report?server_name=chat.kaki87.net
-status: up
+status: down
 code: 200
-responseTime: 492
-lastUpdated: 2024-04-19T23:41:07.529Z
+responseTime: 581
+lastUpdated: 2024-04-19T23:57:00.190Z
 startTime: 2023-12-13T14:55:47.946Z
 generator: Upptime <https://github.com/upptime/upptime>
