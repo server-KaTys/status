@@ -4,11 +4,11 @@
     "url": "https://tianalemesle.fr",
     "icon": "https://icons.duckduckgo.com/ip3/tianalemesle.fr.ico",
     "slug": "tiana-lemesle-portfolio",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.80%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.97%",
     "time": 747,
     "timeDay": 511,
@@ -16,6 +16,7 @@
     "timeMonth": 614,
     "timeYear": 747,
     "dailyMinutesDown": {
+      "2024-04-20": 3,
       "2024-02-14": 34,
       "2024-01-24": 20
     }
@@ -179,10 +180,10 @@
     "url": "https://dashboard.katys.eu.org",
     "icon": "https://icons.duckduckgo.com/ip3/dashboard.katys.eu.org.ico",
     "slug": "dashboard",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 747,
@@ -190,17 +191,19 @@
     "timeWeek": 628,
     "timeMonth": 695,
     "timeYear": 747,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-20": 1
+    }
   },
   {
     "name": "Apache",
     "url": "https://37.187.135.104",
     "icon": "https://icons.duckduckgo.com/ip3/37.187.135.104.ico",
     "slug": "apache",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 339,
@@ -209,6 +212,7 @@
     "timeMonth": 310,
     "timeYear": 335,
     "dailyMinutesDown": {
+      "2024-04-20": 1,
       "2024-02-14": 25,
       "2024-01-24": 20,
       "2023-12-12": 141
