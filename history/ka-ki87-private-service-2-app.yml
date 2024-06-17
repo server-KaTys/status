@@ -1,7 +1,7 @@
 url: $PRIVATE_SERVICE_2_URL
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-06-17T01:30:07.821Z
+status: up
+code: 200
+responseTime: 432
+lastUpdated: 2024-06-17T04:43:41.582Z
 startTime: 2023-12-20T11:40:20.406Z
 generator: Upptime <https://github.com/upptime/upptime>
