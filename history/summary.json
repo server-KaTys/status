@@ -409,18 +409,19 @@
     "url": "$DISCORD_WAREZ_MONITORING_GUILD_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ka-ki87-warez-discord-bot",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 93,
-    "timeDay": 116,
+    "timeDay": 95,
     "timeWeek": 69,
     "timeMonth": 64,
     "timeYear": 93,
     "dailyMinutesDown": {
+      "2024-07-09": 0,
       "2024-06-07": 15
     }
   },
