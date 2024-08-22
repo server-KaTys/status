@@ -1,7 +1,7 @@
 url: https://discord.com/api/guilds/1184503220060573746/widget.json
-status: down
-code: 429
-responseTime: 68
-lastUpdated: 2024-08-22T04:54:29.092Z
+status: up
+code: 200
+responseTime: 94
+lastUpdated: 2024-08-22T05:09:10.548Z
 startTime: 2023-12-13T14:55:51.332Z
 generator: Upptime <https://github.com/upptime/upptime>
