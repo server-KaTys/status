@@ -3,102 +3,81 @@ owner: server-KaTys # Your GitHub organization or username, where this repositor
 repo: status # The name of this repository
 
 sites:
-  - name: '[Tiana Lemesle] Portfolio'
+  - name: 'Portfolio'
     url: https://tianalemesle.fr
     expectedStatusCodes:
       - 200
-  - name: '[KaKi87] Shields'
+  - name: 'Shields'
     url: https://shields.kaki87.net
     expectedStatusCodes:
       - 404
-  - name: '[KaKi87] Git'
+  - name: 'Git'
     url: https://git.kaki87.net
     expectedStatusCodes:
       - 200
-  - name: '[KaKi87] Git - SSH'
+  - name: 'Git - SSH'
     check: tcp-ping
     url: git.kaki87.net
     port: 3021
-  - name: '[KaKi87] Play Search'
+  - name: 'Play Search'
     url: https://api.playsearch.kaki87.net
     expectedStatusCodes:
       - 404
-  - name: '[KaKi87] General API'
+  - name: 'General API'
     url: https://api.kaki87.net
     expectedStatusCodes:
       - 301
     maxRedirects: 0
-  - name: '[KaKi87] CestLaGreve API'
+  - name: 'CestLaGreve API'
     url: https://cestlagreve.api.kaki87.net
     expectedStatusCodes:
       - 204
-  - name: '[cv.vg] Dev API'
-    url: https://d.cv.vg
-    expectedStatusCodes:
-      - 200
   - name: 'Dashboard'
-    url: https://dashboard.katys.eu.org
+    url: https://dashboard.kaki87.net
     expectedStatusCodes:
       - 200
-  - name: 'Apache'
-    url: https://37.187.135.104
+  - name: 'Caddy'
+    url: https://185.16.61.203
     expectedStatusCodes:
       - 200
     __dangerous__insecure: true
-  - name: '[KaKi87] Chat (Matrix)'
-    url: https://federationtester.matrix.org/api/report?server_name=chat.kaki87.net
-    expectedStatusCodes:
-      - 200
-    __dangerous__body_down_if_text_missing: '"FederationOK": true'
-  - name: '[KaKi87] Tauri updates'
-    url: https://tauri-updates.kaki87.net
-    expectedStatusCodes:
-      - 404
-  - name: '[KaKi87] Analytics'
-    url: https://analytics.kaki87.net
-    expectedStatusCodes:
-      - 200
-  - name: '[KaKi87] Subtitle Search'
-    url: https://api.subtitle-search.kaki87.net
-    expectedStatusCodes:
-      - 404
-  - name: '[KaKi87] Invite Tracker - Discord bot'
+  - name: 'Invite Tracker - Discord bot'
     url: https://discord.com/api/guilds/1184503220060573746/widget.json
     expectedStatusCodes:
       - 200
     __dangerous__body_down_if_text_missing: '"username":"Invite Tracker"'
-  - name: '[KaKi87] Warez - Discord bot'
+  - name: 'Warez - Discord bot'
     url: $DISCORD_WAREZ_MONITORING_GUILD_URL
     expectedStatusCodes:
       - 200
     __dangerous__body_down_if_text_missing: '"username":"Warez"'
-  - name: '[KaKi87] Warez Download API'
+  - name: 'Warez Download API'
     url: https://wzdl.kaki87.net
-  - name: '[KaKi87] Private service #2 - App'
+  - name: 'Private service #2 - App'
     url: $PRIVATE_SERVICE_2_URL
     expectedStatusCodes:
       - 200
-  - name: '[KaKi87] Downloads'
+  - name: 'Downloads'
     url: https://dl.kaki87.net
     expectedStatusCodes:
       - 200
-  - name: '[KaKi87] Mail - SMTP (port 25)'
+  - name: 'Mail - SMTP (port 25)'
     check: tcp-ping
     url: kaki87.net
     port: 25
-  - name: '[KaKi87] Mail - SMTP (port 465)'
+  - name: 'Mail - SMTP (port 465)'
     check: tcp-ping
     url: kaki87.net
     port: 465
-  - name: '[KaKi87] Mail - SMTP (port 587)'
+  - name: 'Mail - SMTP (port 587)'
     check: tcp-ping
     url: kaki87.net
     port: 587
-  - name: '[KaKi87] Mail - IMAP'
+  - name: 'Mail - IMAP (port 993)'
     check: tcp-ping
     url: kaki87.net
     port: 993
-  - name: '[KaKi87] Changedetection'
+  - name: 'Changedetection'
     url: https://changedetection.kaki87.net
     expectedStatusCodes:
       - 200
@@ -106,7 +85,7 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: status.katys.eu.org
+  cname: status.kaki87.net
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: KaTys status
@@ -116,9 +95,9 @@ status-website:
     - title: Status
       href: /
     - title: About
-      href: https://katys.eu.org
+      href: https://kaki87.net
     - title: Dashboard
-      href: https://dashboard.katys.eu.org
+      href: https://dashboard.kaki87.net
   theme: night
 
 # Upptime also supports notifications, assigning issues, and more
