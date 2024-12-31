@@ -37,10 +37,9 @@ sites:
     expectedStatusCodes:
       - 200
   - name: 'Caddy'
-    url: https://185.16.61.203
-    expectedStatusCodes:
-      - 200
-    __dangerous__insecure: true
+    check: tcp-ping
+    url: 185.16.61.203
+    port: 443
   - name: 'Invite Tracker - Discord bot'
     url: https://discord.com/api/guilds/1184503220060573746/widget.json
     expectedStatusCodes:
