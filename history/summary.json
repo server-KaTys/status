@@ -113,18 +113,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/cestlagreve.api.kaki87.net.ico",
     "slug": "cest-la-greve-api",
     "status": "down",
-    "uptime": "0.17%",
-    "uptimeDay": "0.17%",
-    "uptimeWeek": "0.17%",
-    "uptimeMonth": "0.17%",
-    "uptimeYear": "0.17%",
+    "uptime": "0.02%",
+    "uptimeDay": "0.02%",
+    "uptimeWeek": "0.02%",
+    "uptimeMonth": "0.02%",
+    "uptimeYear": "0.02%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-12-31": 9
+      "2025-01-01": 85,
+      "2024-12-31": 51
     }
   },
   {
@@ -134,14 +135,14 @@
     "slug": "dashboard",
     "status": "up",
     "uptime": "99.54%",
-    "uptimeDay": "6.80%",
+    "uptimeDay": "9.48%",
     "uptimeWeek": "86.69%",
     "uptimeMonth": "96.94%",
     "uptimeYear": "99.54%",
     "time": 1035,
     "timeDay": 731,
     "timeWeek": 1424,
-    "timeMonth": 1173,
+    "timeMonth": 1185,
     "timeYear": 1035,
     "dailyMinutesDown": {
       "2024-12-31": 1342,
