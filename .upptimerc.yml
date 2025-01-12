@@ -87,8 +87,8 @@ status-website:
   cname: status.kaki87.net
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: KaTys status
-  introTitle: "**KaTys** server status"
+  name: "KaKi's cloud server status"
+  introTitle: "**KaKi's cloud** server status"
   introMessage: This page shows the status of the services hosted on the KaTys server.
   navbar:
     - title: Status
