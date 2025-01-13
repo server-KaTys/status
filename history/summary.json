@@ -126,7 +126,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-13": 1013,
+      "2025-01-13": 1020,
       "2025-01-12": 1440,
       "2025-01-11": 1440,
       "2025-01-10": 1440,
@@ -233,19 +233,19 @@
     "url": "https://wzdl.kaki87.net",
     "icon": "https://icons.duckduckgo.com/ip3/wzdl.kaki87.net.ico",
     "slug": "warez-download-api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 624,
-    "timeDay": 642,
-    "timeWeek": 628,
-    "timeMonth": 624,
-    "timeYear": 624,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "99.47%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 622,
+    "timeDay": 629,
+    "timeWeek": 624,
+    "timeMonth": 622,
+    "timeYear": 622,
     "dailyMinutesDown": {
-      "2025-01-13": 0
+      "2025-01-13": 8
     }
   },
   {
