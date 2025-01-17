@@ -127,7 +127,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-17": 1305,
+      "2025-01-17": 1339,
       "2025-01-16": 1440,
       "2025-01-15": 1440,
       "2025-01-14": 1440,
@@ -222,19 +222,19 @@
     "url": "$DISCORD_WAREZ_MONITORING_GUILD_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "warez-discord-bot",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 103,
-    "timeDay": 117,
-    "timeWeek": 102,
-    "timeMonth": 103,
-    "timeYear": 103,
+    "status": "up",
+    "uptime": "99.86%",
+    "uptimeDay": "97.64%",
+    "uptimeWeek": "99.66%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.86%",
+    "time": 101,
+    "timeDay": 100,
+    "timeWeek": 99,
+    "timeMonth": 101,
+    "timeYear": 101,
     "dailyMinutesDown": {
-      "2025-01-17": 0
+      "2025-01-17": 34
     }
   },
   {
