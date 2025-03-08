@@ -40,9 +40,9 @@
     "url": "https://git.kaki87.net",
     "icon": "https://icons.duckduckgo.com/ip3/git.kaki87.net.ico",
     "slug": "git",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,7 +51,9 @@
     "timeWeek": 1022,
     "timeMonth": 1211,
     "timeYear": 1088,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-08": 0
+    }
   },
   {
     "name": "Git - SSH",
@@ -127,7 +129,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-08": 208,
+      "2025-03-08": 271,
       "2025-03-07": 1440,
       "2025-03-06": 1440,
       "2025-03-05": 1440,
@@ -253,18 +255,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/discord.com.ico",
     "slug": "invite-tracker-discord-bot",
     "status": "up",
-    "uptime": "99.95%",
-    "uptimeDay": "97.63%",
-    "uptimeWeek": "99.66%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.95%",
+    "uptime": "99.96%",
+    "uptimeDay": "98.64%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
     "time": 159,
     "timeDay": 108,
     "timeWeek": 131,
     "timeMonth": 147,
     "timeYear": 159,
     "dailyMinutesDown": {
-      "2025-03-08": 15,
       "2025-03-07": 20,
       "2025-01-15": 15
     }
@@ -275,18 +276,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "warez-discord-bot",
     "status": "up",
-    "uptime": "99.93%",
-    "uptimeDay": "97.63%",
-    "uptimeWeek": "99.66%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.93%",
+    "uptime": "99.94%",
+    "uptimeDay": "98.64%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.94%",
     "time": 98,
     "timeDay": 65,
     "timeWeek": 84,
     "timeMonth": 95,
     "timeYear": 98,
     "dailyMinutesDown": {
-      "2025-03-08": 15,
       "2025-03-07": 20,
       "2025-01-17": 34
     }
