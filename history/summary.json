@@ -132,7 +132,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-13": 120,
+      "2025-05-13": 502,
       "2025-05-12": 1440,
       "2025-05-11": 1440,
       "2025-05-10": 1440,
@@ -424,19 +424,19 @@
     "url": "kaki87.net",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mail-smtp-port-25",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 123,
-    "timeDay": 97,
-    "timeWeek": 115,
-    "timeMonth": 119,
-    "timeYear": 123,
+    "status": "up",
+    "uptime": "99.80%",
+    "uptimeDay": "73.51%",
+    "uptimeWeek": "96.22%",
+    "uptimeMonth": "99.13%",
+    "uptimeYear": "99.80%",
+    "time": 122,
+    "timeDay": 96,
+    "timeWeek": 112,
+    "timeMonth": 118,
+    "timeYear": 122,
     "dailyMinutesDown": {
-      "2025-05-13": 0
+      "2025-05-13": 382
     }
   },
   {
@@ -444,19 +444,19 @@
     "url": "kaki87.net",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mail-smtp-port-465",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.80%",
+    "uptimeDay": "73.51%",
+    "uptimeWeek": "96.22%",
+    "uptimeMonth": "99.13%",
+    "uptimeYear": "99.80%",
     "time": 121,
-    "timeDay": 97,
-    "timeWeek": 115,
-    "timeMonth": 119,
+    "timeDay": 96,
+    "timeWeek": 112,
+    "timeMonth": 118,
     "timeYear": 121,
     "dailyMinutesDown": {
-      "2025-05-13": 0
+      "2025-05-13": 382
     }
   },
   {
@@ -464,19 +464,19 @@
     "url": "kaki87.net",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mail-smtp-port-587",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.80%",
+    "uptimeDay": "73.51%",
+    "uptimeWeek": "96.22%",
+    "uptimeMonth": "99.13%",
+    "uptimeYear": "99.80%",
     "time": 121,
-    "timeDay": 97,
-    "timeWeek": 115,
-    "timeMonth": 119,
+    "timeDay": 96,
+    "timeWeek": 112,
+    "timeMonth": 118,
     "timeYear": 121,
     "dailyMinutesDown": {
-      "2025-05-13": 0
+      "2025-05-13": 381
     }
   },
   {
@@ -484,19 +484,19 @@
     "url": "kaki87.net",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mail-imap-port-993",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.80%",
+    "uptimeDay": "73.51%",
+    "uptimeWeek": "96.22%",
+    "uptimeMonth": "99.13%",
+    "uptimeYear": "99.80%",
     "time": 121,
-    "timeDay": 97,
-    "timeWeek": 115,
-    "timeMonth": 119,
+    "timeDay": 96,
+    "timeWeek": 112,
+    "timeMonth": 118,
     "timeYear": 121,
     "dailyMinutesDown": {
-      "2025-05-13": 0
+      "2025-05-13": 381
     }
   },
   {
