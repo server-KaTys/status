@@ -41,11 +41,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/git.kaki87.net.ico",
     "slug": "git",
     "status": "up",
-    "uptime": "99.54%",
+    "uptime": "99.55%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.54%",
+    "uptimeYear": "99.55%",
     "time": 1038,
     "timeDay": 920,
     "timeWeek": 971,
@@ -132,7 +132,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-13": 100,
+      "2025-05-13": 120,
       "2025-05-12": 1440,
       "2025-05-11": 1440,
       "2025-05-10": 1440,
@@ -424,9 +424,9 @@
     "url": "kaki87.net",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mail-smtp-port-25",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -435,16 +435,18 @@
     "timeWeek": 115,
     "timeMonth": 119,
     "timeYear": 123,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-13": 0
+    }
   },
   {
     "name": "Mail - SMTP (port 465)",
     "url": "kaki87.net",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mail-smtp-port-465",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -453,16 +455,18 @@
     "timeWeek": 115,
     "timeMonth": 119,
     "timeYear": 121,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-13": 0
+    }
   },
   {
     "name": "Mail - SMTP (port 587)",
     "url": "kaki87.net",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mail-smtp-port-587",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -471,16 +475,18 @@
     "timeWeek": 115,
     "timeMonth": 119,
     "timeYear": 121,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-13": 0
+    }
   },
   {
     "name": "Mail - IMAP (port 993)",
     "url": "kaki87.net",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mail-imap-port-993",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -489,7 +495,9 @@
     "timeWeek": 115,
     "timeMonth": 119,
     "timeYear": 121,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-13": 0
+    }
   },
   {
     "name": "Changedetection",
