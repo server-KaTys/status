@@ -1,7 +1,7 @@
 url: $DISCORD_WAREZ_MONITORING_GUILD_URL
-status: up
+status: down
 code: 200
-responseTime: 232
-lastUpdated: 2025-06-23T23:18:07.694Z
+responseTime: 145
+lastUpdated: 2025-06-24T11:10:26.451Z
 startTime: 2024-12-31T23:08:40.299Z
 generator: Upptime <https://github.com/upptime/upptime>
