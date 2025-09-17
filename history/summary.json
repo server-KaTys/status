@@ -224,18 +224,20 @@
     "url": "https://wzdl.kaki87.net",
     "icon": "https://icons.duckduckgo.com/ip3/wzdl.kaki87.net.ico",
     "slug": "warez-download-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 586,
-    "timeDay": 568,
-    "timeWeek": 613,
+    "timeDay": 594,
+    "timeWeek": 617,
     "timeMonth": 635,
     "timeYear": 586,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-09-17": 1
+    }
   },
   {
     "name": "Private service #2 - App",
@@ -243,18 +245,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "private-service-2-app",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.94%",
+    "uptimeDay": "84.53%",
+    "uptimeWeek": "97.79%",
+    "uptimeMonth": "99.49%",
+    "uptimeYear": "99.94%",
     "time": 570,
     "timeDay": 572,
     "timeWeek": 537,
     "timeMonth": 591,
     "timeYear": 570,
     "dailyMinutesDown": {
-      "2025-09-17": 1
+      "2025-09-17": 223
     }
   },
   {
@@ -281,18 +283,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mail-smtp-port-25",
     "status": "down",
-    "uptime": "99.90%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.90%",
+    "uptime": "99.84%",
+    "uptimeDay": "84.53%",
+    "uptimeWeek": "97.79%",
+    "uptimeMonth": "99.49%",
+    "uptimeYear": "99.84%",
     "time": 121,
     "timeDay": 126,
     "timeWeek": 116,
     "timeMonth": 120,
     "timeYear": 121,
     "dailyMinutesDown": {
-      "2025-09-17": 0,
+      "2025-09-17": 223,
       "2025-05-13": 382
     }
   },
@@ -302,18 +304,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mail-smtp-port-465",
     "status": "down",
-    "uptime": "99.90%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.90%",
+    "uptime": "99.84%",
+    "uptimeDay": "84.54%",
+    "uptimeWeek": "97.79%",
+    "uptimeMonth": "99.49%",
+    "uptimeYear": "99.84%",
     "time": 120,
     "timeDay": 126,
     "timeWeek": 115,
     "timeMonth": 120,
     "timeYear": 120,
     "dailyMinutesDown": {
-      "2025-09-17": 0,
+      "2025-09-17": 223,
       "2025-05-13": 382
     }
   },
@@ -323,18 +325,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mail-smtp-port-587",
     "status": "down",
-    "uptime": "99.90%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.90%",
+    "uptime": "99.84%",
+    "uptimeDay": "84.54%",
+    "uptimeWeek": "97.79%",
+    "uptimeMonth": "99.49%",
+    "uptimeYear": "99.84%",
     "time": 120,
     "timeDay": 125,
     "timeWeek": 116,
     "timeMonth": 120,
     "timeYear": 120,
     "dailyMinutesDown": {
-      "2025-09-17": 0,
+      "2025-09-17": 223,
       "2025-05-13": 381
     }
   },
@@ -344,18 +346,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mail-imap-port-993",
     "status": "down",
-    "uptime": "99.90%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.90%",
+    "uptime": "99.84%",
+    "uptimeDay": "84.54%",
+    "uptimeWeek": "97.79%",
+    "uptimeMonth": "99.49%",
+    "uptimeYear": "99.84%",
     "time": 120,
     "timeDay": 127,
     "timeWeek": 116,
     "timeMonth": 120,
     "timeYear": 120,
     "dailyMinutesDown": {
-      "2025-09-17": 0,
+      "2025-09-17": 223,
       "2025-05-13": 381
     }
   },
@@ -365,18 +367,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/changedetection.kaki87.net.ico",
     "slug": "changedetection",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.94%",
+    "uptimeDay": "84.54%",
+    "uptimeWeek": "97.79%",
+    "uptimeMonth": "99.49%",
+    "uptimeYear": "99.94%",
     "time": 803,
     "timeDay": 774,
     "timeWeek": 789,
     "timeMonth": 832,
     "timeYear": 803,
     "dailyMinutesDown": {
-      "2025-09-17": 0
+      "2025-09-17": 223
     }
   }
 ]
