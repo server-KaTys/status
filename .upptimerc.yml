@@ -34,7 +34,7 @@ sites:
       - 200
   - name: 'Caddy'
     check: tcp-ping
-    url: 185.16.61.203
+    url: kaki87.net
     port: 443
   - name: 'Invite Tracker - Discord bot'
     url: https://discord.com/api/guilds/1184503220060573746/widget.json
