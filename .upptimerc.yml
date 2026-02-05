@@ -76,6 +76,10 @@ sites:
     url: https://changedetection.kaki87.net
     expectedStatusCodes:
       - 200
+  - name: 'Blog'
+    url: https://blog.kaki87.net
+    expectedStatusCodes:
+      - 200
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
