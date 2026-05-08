@@ -9,8 +9,6 @@ sites:
       - 200
   - name: 'Shields'
     url: https://shields.kaki87.net
-    expectedStatusCodes:
-      - 404
   - name: 'Git'
     url: https://git.kaki87.net
     expectedStatusCodes:
