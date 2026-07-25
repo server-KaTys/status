@@ -78,6 +78,26 @@ sites:
     url: https://blog.kaki87.net
     expectedStatusCodes:
       - 200
+  - name: 'Linkwarden'
+    url: https://linkwarden.kaki87.net
+    expectedStatusCodes:
+      - 200
+  - name: 'Board'
+    url: https://board.kaki87.net
+    expectedStatusCodes:
+      - 200
+  - name: 'Bugsink'
+    url: https://bugsink.kaki87.net
+    expectedStatusCodes:
+      - 200
+  - name: 'GlitchTip'
+    url: https://glitchtip.kaki87.net
+    expectedStatusCodes:
+      - 200
+  - name: 'Speedtest Tracker'
+    url: https://speedtest.kaki87.net
+    expectedStatusCodes:
+      - 200
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
