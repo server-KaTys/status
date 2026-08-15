@@ -235,16 +235,16 @@
     "url": "https://discord.com/api/guilds/1184503220060573746/widget.json",
     "icon": "https://icons.duckduckgo.com/ip3/discord.com.ico",
     "slug": "invite-tracker-discord-bot",
-    "status": "up",
+    "status": "down",
     "uptime": "99.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.43%",
     "time": 184,
-    "timeDay": 306,
-    "timeWeek": 218,
-    "timeMonth": 203,
+    "timeDay": 167,
+    "timeWeek": 194,
+    "timeMonth": 198,
     "timeYear": 191,
     "dailyMinutesDown": {
       "2025-09-08": 90,
@@ -264,7 +264,8 @@
       "2026-04-14": 61,
       "2026-04-28": 65,
       "2026-05-08": 68,
-      "2026-07-08": 103
+      "2026-07-08": 103,
+      "2026-08-15": 1
     }
   },
   {
