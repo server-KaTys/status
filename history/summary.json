@@ -534,20 +534,20 @@
     "url": "https://blog.kaki87.net",
     "icon": "https://icons.duckduckgo.com/ip3/blog.kaki87.net.ico",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "92.92%",
-    "uptimeWeek": "98.99%",
-    "uptimeMonth": "99.77%",
+    "uptimeDay": "92.81%",
+    "uptimeWeek": "98.97%",
+    "uptimeMonth": "99.76%",
     "uptimeYear": "99.92%",
-    "time": 828,
-    "timeDay": 575,
-    "timeWeek": 792,
-    "timeMonth": 877,
-    "timeYear": 828,
+    "time": 827,
+    "timeDay": 523,
+    "timeWeek": 750,
+    "timeMonth": 863,
+    "timeYear": 827,
     "dailyMinutesDown": {
       "2026-03-03": 177,
-      "2026-10-12": 102
+      "2026-10-12": 104
     }
   },
   {
@@ -555,18 +555,20 @@
     "url": "https://linkwarden.kaki87.net",
     "icon": "https://icons.duckduckgo.com/ip3/linkwarden.kaki87.net.ico",
     "slug": "linkwarden",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 623,
-    "timeDay": 611,
-    "timeWeek": 612,
-    "timeMonth": 593,
-    "timeYear": 623,
-    "dailyMinutesDown": {}
+    "time": 620,
+    "timeDay": 516,
+    "timeWeek": 588,
+    "timeMonth": 587,
+    "timeYear": 620,
+    "dailyMinutesDown": {
+      "2026-10-12": 1
+    }
   },
   {
     "name": "Board",
@@ -627,19 +629,19 @@
     "url": "https://speedtest.kaki87.net",
     "icon": "https://icons.duckduckgo.com/ip3/speedtest.kaki87.net.ico",
     "slug": "speedtest-tracker",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "92.93%",
-    "uptimeWeek": "98.99%",
+    "uptimeDay": "92.86%",
+    "uptimeWeek": "98.98%",
     "uptimeMonth": "99.77%",
     "uptimeYear": "99.91%",
-    "time": 1271,
+    "time": 1267,
     "timeDay": 911,
-    "timeWeek": 1240,
-    "timeMonth": 1323,
-    "timeYear": 1271,
+    "timeWeek": 1203,
+    "timeMonth": 1310,
+    "timeYear": 1267,
     "dailyMinutesDown": {
-      "2026-10-12": 102
+      "2026-10-12": 103
     }
   }
 ]
