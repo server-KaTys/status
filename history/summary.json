@@ -525,20 +525,21 @@
     "url": "https://blog.kaki87.net",
     "icon": "https://icons.duckduckgo.com/ip3/blog.kaki87.net.ico",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.08%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.07%",
     "uptimeYear": "99.85%",
-    "time": 826,
-    "timeDay": 979,
-    "timeWeek": 826,
-    "timeMonth": 818,
-    "timeYear": 826,
+    "time": 825,
+    "timeDay": 712,
+    "timeWeek": 778,
+    "timeMonth": 807,
+    "timeYear": 825,
     "dailyMinutesDown": {
       "2026-03-03": 177,
-      "2026-10-12": 405
+      "2026-10-12": 405,
+      "2026-10-25": 1
     }
   },
   {
@@ -620,19 +621,20 @@
     "url": "https://speedtest.kaki87.net",
     "icon": "https://icons.duckduckgo.com/ip3/speedtest.kaki87.net.ico",
     "slug": "speedtest-tracker",
-    "status": "up",
+    "status": "down",
     "uptime": "99.69%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.08%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.07%",
     "uptimeYear": "99.69%",
-    "time": 1270,
-    "timeDay": 1451,
-    "timeWeek": 1320,
-    "timeMonth": 1282,
-    "timeYear": 1270,
+    "time": 1264,
+    "timeDay": 1069,
+    "timeWeek": 1241,
+    "timeMonth": 1265,
+    "timeYear": 1264,
     "dailyMinutesDown": {
-      "2026-10-12": 404
+      "2026-10-12": 404,
+      "2026-10-25": 1
     }
   }
 ]
