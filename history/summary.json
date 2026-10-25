@@ -61,17 +61,17 @@
     "url": "https://git.kaki87.net",
     "icon": "https://icons.duckduckgo.com/ip3/git.kaki87.net.ico",
     "slug": "git",
-    "status": "down",
-    "uptime": "99.05%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "98.45%",
+    "status": "up",
+    "uptime": "99.03%",
+    "uptimeDay": "84.60%",
+    "uptimeWeek": "97.80%",
+    "uptimeMonth": "99.49%",
+    "uptimeYear": "98.41%",
     "time": 1388,
-    "timeDay": 2035,
-    "timeWeek": 1479,
-    "timeMonth": 1644,
-    "timeYear": 1427,
+    "timeDay": 1675,
+    "timeWeek": 1458,
+    "timeMonth": 1634,
+    "timeYear": 1426,
     "dailyMinutesDown": {
       "2026-02-03": 160,
       "2026-02-02": 1440,
@@ -82,7 +82,7 @@
       "2026-01-28": 133,
       "2026-03-03": 177,
       "2026-08-15": 469,
-      "2026-10-25": 1
+      "2026-10-25": 222
     }
   },
   {
@@ -527,11 +527,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.kaki87.net.ico",
     "slug": "blog",
     "status": "down",
-    "uptime": "99.76%",
-    "uptimeDay": "77.18%",
-    "uptimeWeek": "96.74%",
-    "uptimeMonth": "98.33%",
-    "uptimeYear": "99.76%",
+    "uptime": "99.70%",
+    "uptimeDay": "61.80%",
+    "uptimeWeek": "94.54%",
+    "uptimeMonth": "97.82%",
+    "uptimeYear": "99.70%",
     "time": 825,
     "timeDay": 712,
     "timeWeek": 778,
@@ -540,7 +540,7 @@
     "dailyMinutesDown": {
       "2026-03-03": 177,
       "2026-10-12": 405,
-      "2026-10-25": 329
+      "2026-10-25": 550
     }
   },
   {
@@ -622,20 +622,20 @@
     "url": "https://speedtest.kaki87.net",
     "icon": "https://icons.duckduckgo.com/ip3/speedtest.kaki87.net.ico",
     "slug": "speedtest-tracker",
-    "status": "down",
-    "uptime": "99.44%",
-    "uptimeDay": "77.20%",
-    "uptimeWeek": "96.74%",
-    "uptimeMonth": "98.33%",
-    "uptimeYear": "99.44%",
-    "time": 1264,
-    "timeDay": 1069,
-    "timeWeek": 1241,
-    "timeMonth": 1265,
-    "timeYear": 1264,
+    "status": "up",
+    "uptime": "99.28%",
+    "uptimeDay": "61.88%",
+    "uptimeWeek": "94.55%",
+    "uptimeMonth": "97.82%",
+    "uptimeYear": "99.28%",
+    "time": 1261,
+    "timeDay": 1041,
+    "timeWeek": 1213,
+    "timeMonth": 1257,
+    "timeYear": 1261,
     "dailyMinutesDown": {
       "2026-10-12": 404,
-      "2026-10-25": 328
+      "2026-10-25": 549
     }
   }
 ]
