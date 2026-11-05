@@ -98,6 +98,18 @@ sites:
     url: https://speedtest.kaki87.net
     expectedStatusCodes:
       - 200
+  - name: 'Chat'
+    url: https://chat.kaki87.net
+    expectedStatusCodes:
+      - 200
+  - name: 'Rybbit'
+    url: https://rybbit.kaki87.net
+    expectedStatusCodes:
+      - 200
+  - name: 'Thornhill Utilities'
+    url: https://thornhill-utilities.com
+    expectedStatusCodes:
+      - 200
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
