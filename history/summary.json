@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/tianalemesle.fr.ico",
     "slug": "portfolio",
     "status": "down",
-    "uptime": "99.21%",
-    "uptimeDay": "98.51%",
-    "uptimeWeek": "99.79%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "98.54%",
+    "uptime": "99.20%",
+    "uptimeDay": "89.92%",
+    "uptimeWeek": "98.56%",
+    "uptimeMonth": "99.67%",
+    "uptimeYear": "98.51%",
     "time": 970,
     "timeDay": 0,
     "timeWeek": 944,
@@ -24,7 +24,7 @@
       "2026-01-29": 1440,
       "2026-01-28": 134,
       "2026-03-03": 177,
-      "2026-11-09": 21
+      "2026-11-09": 145
     }
   },
   {
@@ -33,11 +33,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/shields.kaki87.net.ico",
     "slug": "shields",
     "status": "down",
-    "uptime": "98.98%",
-    "uptimeDay": "98.85%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "98.11%",
+    "uptime": "98.97%",
+    "uptimeDay": "90.26%",
+    "uptimeWeek": "98.61%",
+    "uptimeMonth": "99.68%",
+    "uptimeYear": "98.09%",
     "time": 839,
     "timeDay": 0,
     "timeWeek": 877,
@@ -55,7 +55,7 @@
       "2026-05-08": 384,
       "2026-10-07": 1256,
       "2026-10-06": 586,
-      "2026-11-09": 17
+      "2026-11-09": 140
     }
   },
   {
@@ -64,11 +64,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/git.kaki87.net.ico",
     "slug": "git",
     "status": "down",
-    "uptime": "99.04%",
-    "uptimeDay": "99.18%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.47%",
-    "uptimeYear": "98.41%",
+    "uptime": "99.03%",
+    "uptimeDay": "90.59%",
+    "uptimeWeek": "98.66%",
+    "uptimeMonth": "99.18%",
+    "uptimeYear": "98.38%",
     "time": 1408,
     "timeDay": 0,
     "timeWeek": 1657,
@@ -85,7 +85,7 @@
       "2026-03-03": 177,
       "2026-08-15": 469,
       "2026-10-25": 222,
-      "2026-11-09": 12
+      "2026-11-09": 135
     }
   },
   {
@@ -122,11 +122,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.playsearch.kaki87.net.ico",
     "slug": "play-search",
     "status": "down",
-    "uptime": "99.11%",
-    "uptimeDay": "99.52%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "98.41%",
+    "uptime": "99.10%",
+    "uptimeDay": "90.93%",
+    "uptimeWeek": "98.70%",
+    "uptimeMonth": "99.70%",
+    "uptimeYear": "98.39%",
     "time": 791,
     "timeDay": 0,
     "timeWeek": 743,
@@ -143,7 +143,7 @@
       "2026-01-29": 1440,
       "2026-01-28": 131,
       "2026-03-03": 177,
-      "2026-11-09": 7
+      "2026-11-09": 131
     }
   },
   {
@@ -152,11 +152,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.kaki87.net.ico",
     "slug": "general-api",
     "status": "down",
-    "uptime": "99.21%",
-    "uptimeDay": "99.85%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "98.54%",
+    "uptime": "99.20%",
+    "uptimeDay": "91.27%",
+    "uptimeWeek": "98.75%",
+    "uptimeMonth": "99.71%",
+    "uptimeYear": "98.52%",
     "time": 718,
     "timeDay": 0,
     "timeWeek": 737,
@@ -171,7 +171,7 @@
       "2026-01-29": 1440,
       "2026-01-28": 131,
       "2026-03-03": 177,
-      "2026-11-09": 2
+      "2026-11-09": 126
     }
   },
   {
