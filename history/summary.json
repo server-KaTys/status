@@ -393,16 +393,16 @@
     "url": "kaki87.net",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mail-smtp-port-25",
-    "status": "down",
-    "uptime": "98.51%",
-    "uptimeDay": "90.90%",
-    "uptimeWeek": "84.66%",
-    "uptimeMonth": "95.41%",
-    "uptimeYear": "98.03%",
+    "status": "up",
+    "uptime": "98.50%",
+    "uptimeDay": "84.72%",
+    "uptimeWeek": "83.78%",
+    "uptimeMonth": "95.21%",
+    "uptimeYear": "98.01%",
     "time": 121,
-    "timeDay": 0,
-    "timeWeek": 108,
-    "timeMonth": 113,
+    "timeDay": 152,
+    "timeWeek": 114,
+    "timeMonth": 114,
     "timeYear": 121,
     "dailyMinutesDown": {
       "2026-02-03": 161,
@@ -417,7 +417,7 @@
       "2026-11-04": 464,
       "2026-11-17": 135,
       "2026-11-16": 1280,
-      "2026-11-19": 131
+      "2026-11-19": 220
     }
   },
   {
